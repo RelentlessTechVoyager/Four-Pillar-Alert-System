@@ -10,10 +10,21 @@ Blind turns, characterized by limited visibility, pose significant risks to driv
 
 ## Team's Approach
 A four pillar vehicle alert system, is helpful to reduce the accidents at <b>Blind curves</b> and <b>hair pin bend roads</b>. When a vehicle is detected on one side of the road Alert signal will be provided to the other side of the road to prevent road accidents and traffic congestion at blind curve. Furthermore, the vehicle on the other side of the hill/road will be stopped to increase the efficiency of our system.
-## Components used
-1. IR Sensors
-2. Servo Motor
-3. LCD Display
-4. LED
-5. Micro-controller (Arduino Uno or Nano)
-6. Battery
+<details>
+  <summary>
+    <h2>Components used</h2></summary>
+<p align="center">
+  
+|S.No|Name|Quanity|
+|---|---|---|
+|1|Arduino Nano|1|
+|2|16x2 LCD Display i2c|2|
+|3|Servo Motor SG90|2|
+|4|IR Sensor|4|
+|5|RGB LED 10mm|2|
+|6| Battery|1|
+</p>
+</details>
+
+## Future Enhancements
+This data can be used for enhanced traffic management, road use, and traffic flow on single-line tunnels and restricted areas by employing Artificial Intelligence and machine learning tools. This alert system can also be used for challan systems. We can also use this project for commercial purposes like traffic control in malls and buildings with multi-storey parking systems.
