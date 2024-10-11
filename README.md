@@ -23,13 +23,15 @@ A four pillar vehicle alert system, is helpful to reduce the accidents at <b>Bli
 |6| Battery|1|
 
 ## Source Code
-Click on "code.ino" to open the code File!
+Click on `code.ino` to open the code File!
 
 ## Future Enhancements
 This data can be used for enhanced traffic management, road use, and traffic flow on single-line tunnels and restricted areas by employing Artificial Intelligence and machine learning tools. This alert system can also be used for challan systems. We can also use this project for commercial purposes like traffic control in malls and buildings with multi-storey parking systems.
 
-### Docs
-----  doc folder--> file ----
+## Documentation
+
+>[!IMPORTANT]
+>Click on `Docs` and `Images` section to view related files.
 
 ## Team Members
 - Aarush Raj Puduchery (Mentor)
